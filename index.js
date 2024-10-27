@@ -74,16 +74,16 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `🚀 *_DENUWAN-MD Connected Successfully!_* ✅ 
+let up = `🚀 *_LAKSHITHA-MD Connected Successfully!_* ✅ 
 
---- *👨‍💻🎉 _Welcome to DENUWAN-MD!_* 🎉💗 
+--- *👨‍💻🎉 _Welcome to LAKSHITHA-MD!_* 🎉💗 
 
 *🔹 PREFIX:* ${prefix}
 
 *🔹 OWNER:* ${ownerNumber}
 
 
-_Thank you for using_ *👨‍💻DENUWAN-MD💗.*
+_Thank you for using_ *👨‍💻LAKSHITHA-MD💗.*
 _We're here to make your experience enjoyable and seamless._
 _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
@@ -93,9 +93,9 @@ _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
 _*👨‍💻 Enjoy your time with us! 😊*_
 
-> *©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙳𝙴𝙽𝚄𝚆𝙰𝙽-𝙼𝙳*`;
+> *©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 LAKSHITHA-MD*`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://unitedcamps.in/Images/file_4267.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://img.uhdpaper.com/wallpaper/sports-car-futuristic-mountain-sunset-scenery-digital-art-537@0@i-pc-hd.jpg` }, caption: up })
 
 }
 })
@@ -225,7 +225,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("hey,DENUWAN-MD bot started✅");
+res.send("hey,LAKSHITHA-MD started✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
